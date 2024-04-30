@@ -1,5 +1,5 @@
 ### EX NO : 07
-# <p align="center">Q Learning Algorithm</p>
+# Q Learning Algorithm
 
 ## AIM :
 To develop a Python program to find the optimal policy for the given RL environment using Q-Learning and compare the state values with the Monte Carlo method.
